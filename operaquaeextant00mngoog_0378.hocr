@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant00mngoog_0378.png"; bbox 0 0 704 1213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 261 311 357 343">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 261 311 357 343">
+     <span class='ocr_line' id='line_1_1' title="bbox 261 311 357 343; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 261 338 263 343; x_wconf 69' lang='lat'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 299 311 357 333; x_wconf 85' lang='lat' dir='ltr'><strong>xm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 367 464 403">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 367 464 403">
+     <span class='ocr_line' id='line_1_2' title="bbox 175 367 464 403; baseline -0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 175 367 283 399; x_wconf 59' lang='lat' dir='ltr'><strong>&#39;Ulrici</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 300 381 330 399; x_wconf 73' lang='lat' dir='ltr'><strong>ab</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 348 381 464 403; x_wconf 78' lang='lat' dir='ltr'>Hutten,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 229 439 424 461">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 229 439 424 461">
+     <span class='ocr_line' id='line_1_3' title="bbox 229 439 424 461; baseline -0.005 -6"><span class='ocrx_word' id='word_1_6' title='bbox 229 440 309 461; x_wconf 70' lang='lat' dir='ltr'><strong>Equiti·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 322 439 424 458; x_wconf 68' lang='lat' dir='ltr'><strong>Germ-ni,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 74 499 576 524">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 74 499 576 524">
+     <span class='ocr_line' id='line_1_4' title="bbox 74 499 576 524; baseline -0.002 -6"><span class='ocrx_word' id='word_1_8' title='bbox 74 505 117 524; x_wconf 76' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 135 499 194 518; x_wconf 80' lang='lat' dir='ltr'>Area</span> <span class='ocrx_word' id='word_1_10' title='bbox 213 499 347 522; x_wconf 74' lang='lat' dir='ltr'><strong>Coritiana,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 369 505 419 523; x_wconf 71' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_12' title='bbox 437 501 473 517; x_wconf 75' lang='lat' dir='ltr'><strong>est</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 491 499 576 523; x_wconf 74' lang='lat' dir='ltr'><strong>Romae,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 154 562 495 591">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 154 562 495 591">
+     <span class='ocr_line' id='line_1_5' title="bbox 154 562 495 591; baseline 0.003 -7"><span class='ocrx_word' id='word_1_14' title='bbox 154 562 495 591; x_wconf 78' lang='lat' dir='ltr'><strong>Epigrammata.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 257 665 397 672">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 257 665 397 672">
+     <span class='ocr_line' id='line_1_6' title="bbox 257 665 397 672; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 257 665 397 672; x_wconf 62' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
